@@ -57,7 +57,7 @@ color: #404bbf;
 .main-page-title {
         font-weight: 700;
         font-size: 56px;
-        line-height: 1.07143;
+        line-height: 1.07;
         letter-spacing: 0.02em;
         text-align: center;
         color: #fff;
@@ -69,14 +69,12 @@ color: #404bbf;
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #fff;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: #4d5ae5;
 }
 
 .main-page-btn:hover,
 .main-page-btn:focus {
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-    background: #404bbf;
+    background-color: #404BBF;
 }
 
 .section-list-item-header {
@@ -85,17 +83,19 @@ color: #404bbf;
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2e2f42;
+        line-height: 1.11
 }
 
 .section-list-item-text {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
+        color: #434455;
 }
 
 .section-title {
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
         text-align: center;
@@ -105,18 +105,15 @@ color: #404bbf;
 .footer-page {
     background: #2e2f42;
 }
-
 .footer-text {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #f4f4fd;
 }
-
 .text-logo-footer {
  color: #f4f4fd;   
 }
-
 .section-list-item-header-name {
         font-weight: 500;
         font-size: 20px;
@@ -124,6 +121,7 @@ color: #404bbf;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        background-color: #FFFFFF;
 }
 .section-list-item-text-pro {
         font-size: 16px;
@@ -131,4 +129,8 @@ color: #404bbf;
         letter-spacing: 0.02em;
         text-align: center;
         color: #434455;
+        background-color: #FFFFFF;
 }
+.section-portfolio {
+        background: #f4f4fd;
+    }
