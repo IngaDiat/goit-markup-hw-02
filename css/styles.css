@@ -72,8 +72,8 @@ color: #404bbf;
     background: #4d5ae5;
 }
 
-.main-page-btn:hover,
-.main-page-btn:focus {
+.hero-btn:hover,
+.hero-btn:focus {
     background-color: #404BBF;
 }
 
@@ -83,7 +83,6 @@ color: #404bbf;
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2e2f42;
-        line-height: 1.11
 }
 
 .section-list-item-text {
